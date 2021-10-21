@@ -1,13 +1,13 @@
-#M001
-#MongoDB Basics
+# M001
+# MongoDB Basics
 
-#INTRODUCTORY
+# INTRODUCTORY
 
-#Learn the fundamentals of MongoDB.
+# Learn the fundamentals of MongoDB.
 
-##Estimated Total Effort
+## Estimated Total Effort
 
-##8.5 Hours
+## 8.5 Hours
 
 
 https://university.mongodb.com/courses/M001/about
