@@ -8,3 +8,5 @@ MongoDB Charts is a powerful data visualization tool that enables you to easily 
 Estimated Total Effort
 
 4 Hours
+
+https://university.mongodb.com/courses/A131/about
