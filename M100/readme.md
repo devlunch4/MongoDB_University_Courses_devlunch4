@@ -1,4 +1,4 @@
-#M100
+# M100
 MongoDB for SQL Pros
 
 INTRODUCTORY
@@ -9,3 +9,5 @@ Estimated Total Effort
 
 2 Hours
 Resume Cours
+
+https://university.mongodb.com/courses/M100/about
